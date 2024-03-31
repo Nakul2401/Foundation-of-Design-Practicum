@@ -2,6 +2,15 @@
 Teleoperated Robot Using ROS (Robot Operating System)
 Grade points: 10/10
 
+Collaborators:
+Nakul2401
+DevPatel
+AahanRupal
+
+
+ 
+
+
 Made Robot using ROS specifications of which are as follows:
 We made Robot using ROS specifications of which are as follows:
 ⚬ Standard Controls (WASD)
